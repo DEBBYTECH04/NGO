@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    margin: 90px;
+}
+
+.navigation-bar ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.navigation-bar ul li {
+    margin-right: 20px;
+    list-style: none;
+    cursor: pointer;
+}
+
+.navigation-bar ul li a {
+    text-decoration: none;
+}
+
+.navigation-bar button {}
+
+.navlist a {
+    transition: 0.3s ease;
+    text-decoration: none;
+}
+
+.herosection {
+    margin: 50px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-section {
+    margin: 60px;
+    margin-top: 60px;
+    padding-bottom: 50px;
+}
+.hero{
+    display: flex;
+}
+
+
+
+.hero p {
+    margin-top: 10px;
+}
+
+.hero button {
+    margin-top: 20px;
+}
+
+.container {
+  padding: 100px;
+  display: flex;
+}
+
+.input {
+    margin: 60px;
+}
+
+.input button {
+    border-radius: 60px;
+
+}
+
+.image {
+}

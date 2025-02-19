@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: darkslategrey;
+}
+
+.logo {
+    padding: 50px;
+}
+
+nav {
+    display: flex;
+    align-content: center;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 60px;
+    align-content: center;
+
+}
+
+nav ul li {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 50px;
+    font-size: 30px;
+
+
+}
+
+nav ul li a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+nav login{
+    padding-right: 40px;
+    justify-content: space-between;
+}
+
+.login {
+    display: flex;
+    padding-bottom: 50px;
+    justify-content: center;
+    align-content: center;
+}
+.create{
+    display: flex;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    justify-content: center;
+
+}
+
+.button{
+    display: flex;
+    padding: 40px;
+    padding-right: 30px;
+    margin-top: 30px;
+    justify-content:center;
+    align-content: center;
+    font-size: 30px;
+}
+
+.left {
+    width: 50%;
+    margin: 50px;
+    padding: 30px;
+}
+.hero-section{
+    display: flex;
+    padding: 40px;
+
+}
+.left p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+left h1{
+    font-size: 20px;
+}
+
+.right image {
+    width: 50%;
+    display: flex;
+    padding: 30px;
+
+
+}
